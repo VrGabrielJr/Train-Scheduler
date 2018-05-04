@@ -1,0 +1,12 @@
+body {
+    background-image: url("../mainbg.jpeg");
+    margin-top: 15px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url("../jumbotronbg.jpg");
+    background-size: cover;
+    background-position: bottom;
+    color: #58B9F7;
+}
